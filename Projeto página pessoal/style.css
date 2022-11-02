@@ -157,7 +157,7 @@ p{
 }
 
 #sobre .wrapper, #portfolio .wrapper, #contato .wrapper{
-    padding: 100px;
+    padding-block: 100px;
 }
 
 .subtitulo{
